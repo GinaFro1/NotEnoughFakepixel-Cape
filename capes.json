@@ -1,378 +1,441 @@
 [
     {
         "capeID": "1",
+        "name":"NEF Black",
         "file": "1.png",
         "width": 2048,
         "height": 1024
     },
     {
         "capeID": "10",
+        "name":"Nike Backpack",
         "file": "10.png",
         "width": 512,
         "height": 256
     },
     {
         "capeID": "11",
+        "name":"Transparent Heart",
         "file": "11.png",
         "width": 1024,
         "height": 512
     },
     {
         "capeID": "12",
+        "name":"Japanese Smile",
         "file": "12.png",
         "width": 1024,
         "height": 512
     },
     {
         "capeID": "13",
+        "name":"Moon ",
         "file": "13.png",
         "width": 1024,
         "height": 512
     },
     {
         "capeID": "14",
+        "name":"Moon 2",
         "file": "14.png",
         "width": 4096,
         "height": 2048
     },
     {
         "capeID": "15",
+        "name":"Moon 3",
         "file": "15.png",
         "width": 4096,
         "height": 2048
     },
     {
         "capeID": "16",
+        "name":"City Skyline",
         "file": "16.png",
         "width": 4096,
         "height": 2048
     },
     {
         "capeID": "17",
+        "name":"Ocean Sunrise",
         "file": "17.png",
         "width": 2048,
         "height": 1024
     },
     {
         "capeID": "18",
+        "name":"Chicken",
         "file": "18.png",
         "width": 1024,
         "height": 512
     },
     {
         "capeID": "19",
+        "name":"Forest",
         "file": "19.png",
         "width": 2048,
         "height": 1024
     },
     {
         "capeID": "2",
+        "name":"NEF Orange",
         "file": "2.png",
         "width": 2048,
         "height": 1024
     },
     {
         "capeID": "20",
+        "name":"Ocean",
         "file": "20.png",
         "width": 1024,
         "height": 512
     },
     {
         "capeID": "21",
+        "name":"Ender Dragon",
         "file": "21.png",
         "width": 128,
         "height": 64
     },
     {
         "capeID": "22",
+        "name":"Torn Red Cloak",
         "file": "22.png",
         "width": 64,
         "height": 32
     },
     {
         "capeID": "23",
+        "name":"Meh Line Art",
         "file": "23.png",
         "width": 128,
         "height": 64
     },
     {
         "capeID": "24",
+        "name":"Death",
         "file": "24.png",
         "width": 512,
         "height": 256
     },
     {
         "capeID": "25",
+        "name":"Sunset",
         "file": "25.png",
         "width": 256,
         "height": 128
     },
     {
         "capeID": "26",
+        "name":"Fox",
         "file": "26.png",
         "width": 64,
         "height": 32
     },
     {
         "capeID": "27",
+        "name":"Black Pickaxe",
         "file": "27.png",
         "width": 64,
         "height": 32
     },
     {
         "capeID": "28",
+        "name":"City Skyline 2",
         "file": "28.png",
         "width": 256,
         "height": 128
     },
     {
         "capeID": "29",
+        "name":"Black Sword",
         "file": "29.png",
         "width": 64,
         "height": 32
     },
     {
         "capeID": "3",
+        "name":"Mojang",
         "file": "3.png",
         "width": 64,
         "height": 32
     },
     {
         "capeID": "30",
+        "name":"Sky",
         "file": "30.png",
         "width": 2048,
         "height": 1024
     },
     {
         "capeID": "31",
+        "name":"Black Torn Cloak",
         "file": "31.png",
         "width": 64,
         "height": 32
     },
     {
         "capeID": "32",
+        "name":"Sparkles",
         "file": "32.png",
         "width": 1024,
         "height": 512
     },
     {
         "capeID": "33",
+        "name":"Twitch",
         "file": "33.png",
         "width": 2048,
         "height": 1024
     },
     {
         "capeID": "34",
+        "name":"Lightning",
         "file": "34.png",
         "width": 2048,
         "height": 1024
     },
     {
         "capeID": "35",
+        "name":"Dragon",
         "file": "35.png",
         "width": 2048,
         "height": 1024
     },
     {
         "capeID": "36",
+        "name":"Space",
         "file": "36.png",
         "width": 2048,
         "height": 1024
     },
     {
         "capeID": "37",
+        "name":"Hokage Cloak",
         "file": "37.png",
         "width": 2048,
         "height": 1024
     },
     {
         "capeID": "38",
+        "name":"Intel Edits",
         "file": "38.png",
         "width": 128,
         "height": 64
     },
     {
         "capeID": "39",
+        "name":"Omega",
         "file": "39.png",
         "width": 64,
         "height": 32
     },
     {
         "capeID": "4",
+        "name":"Black Cloak",
         "file": "4.png",
         "width": 128,
         "height": 64
     },
     {
         "capeID": "40",
+        "name":"Magma",
         "file": "40.png",
         "width": 64,
         "height": 32
     },
     {
         "capeID": "41",
+        "name":"Axolotl",
         "file": "41.png",
         "width": 64,
         "height": 32
     },
     {
         "capeID": "42",
+        "name":"Forest 2",
         "file": "42.png",
         "width": 2048,
         "height": 1024
     },
     {
         "capeID": "43",
+        "name":"Ender Dragon 2",
         "file": "43.png",
         "width": 64,
         "height": 32
     },
     {
         "capeID": "44",
+        "name":"Duck",
         "file": "44.png",
         "width": 128,
         "height": 64
     },
     {
         "capeID": "45",
+        "name":"Japanese Cloak",
         "file": "45.png",
         "width": 64,
         "height": 32
     },
     {
         "capeID": "46",
+        "name":"Heart",
         "file": "46.png",
         "width": 128,
         "height": 64
     },
     {
         "capeID": "47",
+        "name":"Developer",
         "file": "47.png",
         "width": 1024,
         "height": 512
     },
     {
         "capeID": "48",
+        "name":"Spark",
         "file": "48.png",
         "width": 128,
         "height": 64
     },
     {
         "capeID": "49",
+        "name":"Ocean 2",
         "file": "49.png",
         "width": 1024,
         "height": 512
     },
     {
         "capeID": "5",
+        "name":"Hokage Cloak 2",
         "file": "5.png",
         "width": 64,
         "height": 32
     },
     {
         "capeID": "50",
+        "name":"Spiral Hand",
         "file": "50.png",
         "width": 64,
         "height": 32
     },
     {
         "capeID": "51",
+        "name":"Turtle",
         "file": "51.png",
         "width": 64,
         "height": 32
     },
     {
         "capeID": "52",
+        "name":"Burning Torn Cloak",
         "file": "52.png",
         "width": 128,
         "height": 64
     },
     {
         "capeID": "53",
+        "name":"Pink Cloak",
         "file": "53.png",
         "width": 64,
         "height": 32
     },
     {
         "capeID": "54",
+        "name":"Twitch Reward",
         "file": "54.png",
         "width": 64,
         "height": 32
     },
     {
         "capeID": "55",
+        "name":"Aqua Cloak",
         "file": "55.png",
         "width": 64,
         "height": 32
     },
     {
         "capeID": "56",
+        "name":"Deep Space",
         "file": "56.png",
         "width": 2048,
         "height": 1024
     },
     {
         "capeID": "57",
+        "name":"Anime Girl",
         "file": "57.png",
         "width": 2048,
         "height": 1024
     },
     {
         "capeID": "58",
+        "name":"Cat",
         "file": "58.png",
         "width": 2048,
         "height": 1024
     },
     {
         "capeID": "59",
+        "name":"Cat 2",
         "file": "59.png",
         "width": 2048,
         "height": 1024
     },
     {
         "capeID": "6",
+        "name":"Rimuru",
         "file": "6.png",
         "width": 2048,
         "height": 1024
     },
     {
         "capeID": "60",
+        "name":"Bird",
         "file": "60.png",
         "width": 2048,
         "height": 1024
     },
     {
         "capeID": "61",
+        "name":"Japanese Cloak",
         "file": "61.png",
         "width": 2048,
         "height": 1024
     },
     {
         "capeID": "62",
+        "name":"Chinese Dragon",
         "file": "62.png",
         "width": 2048,
         "height": 1024
     },
     {
         "capeID": "63",
+        "name":"Minecraft",
         "file": "63.png",
         "width": 1024,
         "height": 512
     },
     {
         "capeID": "7",
+        "name":"Hello Kitty",
         "file": "7.png",
         "width": 1024,
         "height": 512
     },
     {
         "capeID": "8",
+        "name":"Anime Girl 2",
         "file": "8.png",
         "width": 1024,
         "height": 512
     },
     {
         "capeID": "9",
+        "name":"Ying Yang",
         "file": "9.png",
         "width": 1024,
         "height": 512
