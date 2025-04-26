@@ -15,14 +15,14 @@
     },
     {
         "capeID": "11",
-        "name":"Transparent Heart",
+        "name":"Heart",
         "file": "11.png",
         "width": 1024,
         "height": 512
     },
     {
         "capeID": "12",
-        "name":"Japanese Smile",
+        "name":"Smile",
         "file": "12.png",
         "width": 1024,
         "height": 512
